@@ -1,0 +1,37 @@
+body
+	{
+		background-color: pink;
+	}
+
+a:link, a:visited
+	{
+		background-color: lightblue;
+		color:maroon;
+		text-decoration: none;
+		padding: 16px;
+		text-align: center;
+		display: inline-block;
+		font-family: Arial;
+	}
+
+
+a:hover
+	{
+		color:purple;
+		background-color: yellow;
+		text-decoration: underline;
+	}
+
+a:active
+	{
+		color: green;
+		background-color: white;
+		text-decoration: underline;
+	}
+
+
+
+
+
+
+
